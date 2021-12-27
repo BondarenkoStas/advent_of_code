@@ -1,5 +1,5 @@
-# advent-of-code
+# Advent of Code
 
 My solutions to https://adventofcode.com problems
 
-- 2021: Ruby 2.7.1
+- 2021: `ruby 2.7.1`
